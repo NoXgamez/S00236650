@@ -40,17 +40,7 @@
 
 <br clear="both">
 
-<h3 align="left"></h3>
-
 ###
-
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S00236650&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=false" height="100" alt="stats graph"  />
@@ -62,18 +52,10 @@
 
 <br clear="both">
 
-<h3 align="left"></h3>
-
 ###
 
-<br clear="both">
-
-<h3 align="left"></h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/S00236650/S00236650/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/S00236650/S00236650/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
