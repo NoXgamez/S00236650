@@ -1,4 +1,4 @@
-<img align="right" height="380" src="https://i.gifer.com/5PWZ.gif"  />
+<img align="right" height="200" src="https://i.gifer.com/5PWZ.gif"  />
 
 ###
 
@@ -25,9 +25,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="80" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="80" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="80" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="80" alt="visualstudio logo"  />
   <img width="12" />
@@ -53,9 +53,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S00236650&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=S00236650&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=S00236650&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S00236650&locale=en&hide_title=false&layout=compact&card_width=320&theme=chartreuse-dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S00236650&locale=en&hide_title=true&layout=compact&card_width=320&theme=chartreuse-dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
