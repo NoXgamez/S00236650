@@ -1,5 +1,5 @@
 <h1 align="left">Hello, World!</h1>
-<p align="left">I'm just an average guy who plays games, and sometimes makes some. <br>Studying game development in college because nothing else interests me enough to dedicate my life to it.</p>
+<p align="left">I am an aspiring game developer currently studying game development in college. My passion for gaming drives my commitment to this field, as I seek to deepen my understanding and skills in creating engaging interactive experiences. I am dedicated to honing my craft and contributing to the dynamic world of game design and development.</p>
 
 <img align="right" height="275" src="https://i.gifer.com/5PWZ.gif"  />
 
